@@ -60,10 +60,10 @@ This project was conducted as a personal attempt to connect modern LLM technique
 
 ## Status
 
-✅ Fine-tuning on OpenAI GPT-4o-mini completed  
-✅ Sample generation tested  
-✅ Evaluation pipeline with GP regression validated  
-❌ Fine-tuning on DeepSeek (Kaggle) was attempted but not successful due to time/resource limits
+ Fine-tuning on OpenAI GPT-4o-mini completed  
+ Sample generation tested  
+ Evaluation pipeline with GP regression validated  
+ Fine-tuning on DeepSeek (Kaggle) was attempted but not successful due to time/resource limits
 
 ## License and Credits
 
